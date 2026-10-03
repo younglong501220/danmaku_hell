@@ -1,0 +1,6 @@
+{
+  "name": "怒首領蜂 DODONPACHI - Danmaku Hell",
+  "description": "致敬 CAVE 經典神作《怒首領蜂》的極限彈幕街機射擊遊戲，具備 2.5px 微操核心判定、擦彈系統 (Graze)、聚焦雷射模式與萬花筒 Boss 彈幕。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
